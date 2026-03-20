@@ -38,6 +38,8 @@ By consolidating this information into a single script, it improves efficiency a
 ```bash
 chmod +x health.sh
 ./health.sh
+```
+---
 
 ## 🧪 Example Output
 
